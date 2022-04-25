@@ -7,4 +7,4 @@ Kookyunghyun : [notion]('https://hyper-thing-7d6.notion.site/CNN-e6fcb974d5f741a
 
 teohkenxin : [notion]('https://www.notion.so/LSTM-Long-Short-Term-Memory-8c6b07c07083440db0bea6700b157eed#d6c209c2b3cc4f299edd6267ef054695') / [code](path)
 
-tyr1028 : [notion]('https://www.notion.so/About-K-NN-bcdad895df5e488ab02b4e4528b5a0f6') / [code](path)
+tyr1028 : [notion](https://www.notion.so/About-K-NN-bcdad895df5e488ab02b4e4528b5a0f6) / [code](path)
