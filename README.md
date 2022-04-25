@@ -7,4 +7,4 @@ Kookyunghyun : [notion](path) / [code](path)
 
 teohkenxin : [notion](path) / [code](path)
 
-tyr1028 : [notion](path) / [code](path)
+tyr1028 : [notion]('https://www.notion.so/About-K-NN-bcdad895df5e488ab02b4e4528b5a0f6') / [code](path)
